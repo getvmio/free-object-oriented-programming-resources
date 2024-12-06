@@ -1,9 +1,5 @@
 # Object-Oriented Programming Free Resources
 
-[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
-
-> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
-
 🏛️ Embark on an Object-Oriented Programming journey with our OOP Odyssey repository! Dive into a comprehensive collection of free resources and courses on OOP principles and practices. With an interactive online Playground, master the art of creating modular, reusable, and efficient code.
 
 ## Resources
